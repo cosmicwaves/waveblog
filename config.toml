@@ -1,0 +1,4 @@
+theme = "toha"
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
