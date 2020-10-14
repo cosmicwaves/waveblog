@@ -3,12 +3,12 @@ name: "Murat Kaya"
 nickname: "Murat"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/avatar.png"
+image: "images/portrait_b&w _512.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "kozmikdalga@gmail.com"
-  phone: "+0123456789"
-
+  email: "murat.kaya@gantep.edu.tr"
+  phone: "+90-342-3601200:4509"
+  
 # some summary about what you do
 summary:
   - I am a Researcher

@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: "Toha"
-theme: "toha"
+title: "MK"
+theme: "MK"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -55,7 +55,7 @@ params:
     favicon: assets/images/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/cosmicwaves/waveblog
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
@@ -66,4 +66,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: FALSE
